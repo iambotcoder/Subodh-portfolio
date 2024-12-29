@@ -1,21 +1,21 @@
-vCard - Personal Portfolio
+vCard - Personal Portfolio (Subodh - Personal Portfolio)
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Richard hanrick (Subodh Sonawane)
+Richard hanrick (Subodh <br> Sonawane)
+Web developer (Tech enthusiast)
 
 Show Contacts
 
 Email
-richard@example.com
+richard@example.com (iambotcoder@gmail.com)
 
 Phone
-+1 (213) 352-2795
++1 (213) 352-2795 (+91 7977598679)
 
 Birthday
-June 23, 1982
+June 23, 1982 (November 06 2000)
 
 Location
 Sacramento, California, USA

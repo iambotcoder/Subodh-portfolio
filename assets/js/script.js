@@ -49,9 +49,10 @@ for (let i = 0; i < testimonialsItem.length; i++) {
 
 }
 
+// Commented as testimonials removed 
 // add click event to modal close button
-modalCloseBtn.addEventListener("click", testimonialsModalFunc);
-overlay.addEventListener("click", testimonialsModalFunc);
+// modalCloseBtn.addEventListener("click", testimonialsModalFunc);
+// overlay.addEventListener("click", testimonialsModalFunc);
 
 
 
